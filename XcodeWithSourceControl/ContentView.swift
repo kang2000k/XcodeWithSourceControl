@@ -30,5 +30,6 @@ struct ContentView_Previews: PreviewProvider {
 }
 
 struct Good {
-    
+    let strings: String
+    let nums: Int
 }
